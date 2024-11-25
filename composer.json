@@ -29,12 +29,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Backpack\\PageTreeCrud\\": "src/"
+            "Forkeringas\\PageTreeCrud\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Backpack\\PageTreeCrud\\": "tests"
+            "Forkeringas\\PageTreeCrud\\": "tests"
         }
     },
     "scripts": {
