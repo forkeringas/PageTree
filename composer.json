@@ -1,5 +1,5 @@
 {
-    "name": "backpack/page-tree-crud",
+    "name": "forkeringas/page-tree-crud",
     "type": "library",
     "description": "An admin panel for pages with sections, using Backpack CRUD on Laravel 9",
     "keywords": [
